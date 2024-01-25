@@ -1,0 +1,539 @@
+Question: What is the capital of Australia?
+
+a) Sydney
+b) Melbourne
+c) Canberra
+d) Brisbane
+
+Correct Answer: c) Canberra
+
+Question: In which year did the United States declare its independence?
+
+a) 1776
+b) 1789
+c) 1800
+d) 1620
+
+Correct Answer: a) 1776
+
+Question: Which planet is known as the "Red Planet"?
+
+a) Venus
+b) Mars
+c) Jupiter
+d) Saturn
+
+Correct Answer: b) Mars
+
+Question: Who wrote the play "Romeo and Juliet"?
+
+a) Charles Dickens
+b) William Shakespeare
+c) Jane Austen
+d) Mark Twain
+
+Correct Answer: b) William Shakespeare
+
+Question: What is the largest mammal in the world?
+
+a) Elephant
+b) Blue Whale
+c) Giraffe
+d) Polar Bear
+
+Correct Answer: b) Blue Whale
+
+Question: What is the capital of the fictional country of Eldoria?
+
+a) Eldor
+b) Sylvania
+c) Zendar
+d) Mystria
+
+Correct Answer: c) Zendar
+
+Question: In the world of fantasy, what is a phoenix known for?
+
+a) Ice manipulation
+b) Fire resurrection
+c) Teleportation
+d) Invisibility
+
+Correct Answer: b) Fire resurrection
+
+Question: Who is the protagonist in the novel "Crystal Shadows"?
+
+a) Elara Nightshade
+b) Alexander Stormrider
+c) Seraphina Moonlight
+d) Orion Thunderheart
+
+Correct Answer: a) Elara Nightshade
+
+Question: What is the primary source of magic in the land of Arcane Realms?
+
+a) Starlight Crystals
+b) Dragon's Breath
+c) Moonstone Dust
+d) Enchanted Rivers
+
+Correct Answer: c) Moonstone Dust
+
+Question: In the universe of intergalactic travel, what powers the warp drives of starships?
+
+a) Quasar Energy
+b) Dark Matter
+c) Hyperium Crystals
+d) Quantum Flux
+
+Correct Answer: c) Hyperium Crystals
+
+Question: Which of the following is the largest ocean on Earth?
+
+a) Atlantic
+b) Indian
+c) Pacific
+d) Arctic
+
+Correct Answer: c) Pacific
+    
+Question: Who wrote the play "Hamlet"?
+
+a) Charles Dickens
+b) William Shakespeare
+c) Jane Austen
+d) Leo Tolstoy
+
+Correct Answer: b) William Shakespeare
+
+Question: What is the capital city of Japan?
+
+a) Seoul
+b) Tokyo
+c) Beijing
+d) Bangkok
+
+Correct Answer: b) Tokyo
+
+Question: In chemistry, H2O represents which compound?
+
+a) Hydrogen Peroxide
+b) Hydrochloric Acid
+c) Water
+d) Methane
+
+Correct Answer: c) Water
+
+Question: Who is known as the "Father of Computers"?
+
+a) Alan Turing
+b) Charles Babbage
+c) Ada Lovelace
+d) Steve Jobs
+
+Correct Answer: b) Charles Babbage
+
+Question: What is the capital of Brazil?
+
+a) Buenos Aires
+b) Rio de Janeiro
+c) Brasília
+d) Sao Paulo
+
+Correct Answer: c) Brasília
+
+Question: Which planet is known as the "Red Planet"?
+
+a) Venus
+b) Mars
+c) Jupiter
+d) Saturn
+
+Correct Answer: b) Mars
+
+Question: In what year did the first moon landing occur?
+
+a) 1955
+b) 1969
+c) 1975
+d) 1982
+
+Correct Answer: b) 1969
+
+Question: What is the currency of France?
+
+a) Pound Sterling
+b) Euro
+c) Franc
+d) Yen
+
+Correct Answer: b) Euro
+
+Question: Who painted the Mona Lisa?
+
+a) Vincent van Gogh
+b) Pablo Picasso
+c) Leonardo da Vinci
+d) Michelangelo
+
+Correct Answer: c) Leonardo da Vinci
+
+Question: What is the powerhouse of the cell?
+
+a) Nucleus
+b) Mitochondria
+c) Endoplasmic Reticulum
+d) Golgi Apparatus
+
+Correct Answer: b) Mitochondria
+
+Question: Which country is known as the Land of the Rising Sun?
+
+a) China
+b) Japan
+c) South Korea
+d) Vietnam
+
+Correct Answer: b) Japan
+
+Question: What is the capital of Canada?
+
+a) Vancouver
+b) Toronto
+c) Ottawa
+d) Montreal
+
+Correct Answer: c) Ottawa
+
+Question: Who wrote "To Kill a Mockingbird"?
+
+a) J.K. Rowling
+b) Harper Lee
+c) Ernest Hemingway
+d) George Orwell
+
+Correct Answer: b) Harper Lee
+
+Question: What is the chemical symbol for gold?
+
+a) Ag
+b) Au
+c) Fe
+d) Pb
+
+Correct Answer: b) Au
+
+Question: Which planet is known as the "Blue Planet"?
+
+a) Mars
+b) Earth
+c) Neptune
+d) Uranus
+
+Correct Answer: b) Earth
+
+Question: What is the main ingredient in guacamole?
+
+a) Tomatoes
+b) Avocado
+c) Onions
+d) Cilantro
+
+Correct Answer: b) Avocado
+
+Question: Who wrote "Romeo and Juliet"?
+
+a) Charles Dickens
+b) William Shakespeare
+c) Jane Austen
+d) Mark Twain
+
+Correct Answer: b) William Shakespeare
+
+Question: In which year did the United States declare its independence?
+
+a) 1776
+b) 1789
+c) 1800
+d) 1620
+
+Correct Answer: a) 1776
+
+Question: What is the largest mammal in the world?
+
+a) Elephant
+b) Blue Whale
+c) Giraffe
+d) Polar Bear
+
+Correct Answer: b) Blue Whale
+
+Question: Who discovered penicillin?
+
+a) Marie Curie
+b) Alexander Fleming
+c) Louis Pasteur
+d) Jonas Salk
+
+Correct Answer: b) Alexander Fleming
+
+Question: What is the capital of South Africa?
+
+a) Johannesburg
+b) Cape Town
+c) Pretoria
+d) Durban
+
+Correct Answer: c) Pretoria
+
+Question: Which of the following is a noble gas?
+
+a) Oxygen
+b) Helium
+c) Nitrogen
+d) Carbon Dioxide
+
+Correct Answer: b) Helium
+
+Question: Who wrote "1984"?
+
+a) J.R.R. Tolkien
+b) George Orwell
+c) H.G. Wells
+d) Aldous Huxley
+
+Correct Answer: b) George Orwell
+
+Question: What is the largest organ in the human body?
+
+a) Heart
+b) Liver
+c) Skin
+d) Brain
+
+Correct Answer: c) Skin
+
+Question: What is the currency of Japan?
+
+a) Yen
+b) Yuan
+c) Won
+d) Ringgit
+
+Correct Answer: a) Yen
+
+Question: Who is known as the "Queen of Pop"?
+
+a) Madonna
+b) Beyoncé
+c) Lady Gaga
+d) Rihanna
+
+Correct Answer: a) Madonna
+
+Question: What is the process by which plants make their own food?
+
+a) Respiration
+b) Photosynthesis
+c) Digestion
+d) Fermentation
+
+Correct Answer: b) Photosynthesis
+
+Question: Which element has the chemical symbol "O"?
+
+a) Oxygen
+b) Gold
+c) Iron
+d) Silver
+
+Correct Answer: a) Oxygen
+
+Question: In Greek mythology, who is the god of thunder?
+
+a) Zeus
+b) Poseidon
+c) Apollo
+d) Hermes
+
+Correct Answer: a) Zeus
+
+Question: What is the largest desert in the world?
+
+a) Sahara
+b) Gobi
+c) Antarctica
+d) Arabian
+
+Correct Answer: c) Antarctica
+
+Question: Who wrote the play "Macbeth"?
+
+a) William Shakespeare
+b) Anton Chekhov
+c) Tennessee Williams
+d) Oscar Wilde
+
+Correct Answer: a) William Shakespeare
+
+Question: What is the capital of France?
+
+a) Rome
+b) Berlin
+c) Paris
+d) Madrid
+
+Correct Answer: c) Paris
+
+Question: What is the chemical symbol for the element with atomic number 79?
+
+a) Fe
+b) Au
+c) Ag
+d) Cu
+
+Correct Answer: b) Au
+
+Question: Which continent is known as the "Land Down Under"?
+
+a) Africa
+b) Australia
+c) South America
+d) Asia
+
+Correct Answer: b) Australia
+
+Question: Who is the author of the "Harry Potter" series?
+
+a) J.R.R. Tolkien
+b) J.K. Rowling
+c) George R.R. Martin
+d) Suzanne Collins
+
+Correct Answer: b) J.K. Rowling
+
+Question: What is the capital of China?
+
+a) Beijing
+b) Shanghai
+c) Hong Kong
+d) Taipei
+
+Correct Answer: a) Beijing
+
+Question: In which year did Christopher Columbus reach the Americas?
+
+a) 1492
+b) 1500
+c) 1607
+d) 1776
+
+Correct Answer: a) 1492
+
+Question: What is the currency of Russia?
+
+a) Ruble
+b) Euro
+c) Peso
+d) Lira
+
+Correct Answer: a) Ruble
+
+Question: Who painted the famous work "Starry Night"?
+
+a) Pablo Picasso
+b) Claude Monet
+c) Vincent van Gogh
+d) Leonardo da Vinci
+
+Correct Answer: c) Vincent van Gogh
+
+Question: What is the largest bone in the human body?
+
+a) Femur
+b) Tibia
+c) Humerus
+d) Radius
+
+Correct Answer: a) Femur
+
+Question: Which gas makes up the majority of Earth's atmosphere?
+
+a) Oxygen
+b) Nitrogen
+c) Carbon Dioxide
+d) Hydrogen
+
+Correct Answer: b) Nitrogen
+
+Question: Who wrote "Pride and Prejudice"?
+
+a) Charlotte Brontë
+b) Jane Austen
+c) Emily Brontë
+d) Charles Dickens
+
+Correct Answer: b) Jane Austen
+
+Question: What is the capital of Italy?
+
+a) Madrid
+b) Paris
+c) Rome
+d) Berlin
+
+Correct Answer: c) Rome
+
+Question: In what year did the Titanic sink?
+
+a) 1901
+b) 1912
+c) 1923
+d) 1934
+
+Correct Answer: b) 1912
+
+Question: Which planet is known as the "Morning Star" or "Evening Star"?
+
+a) Mercury
+b) Venus
+c) Mars
+d) Jupiter
+
+Correct Answer: b) Venus
+
+Question: Who is the author of "The Great Gatsby"?
+
+a) F. Scott Fitzgerald
+b) Ernest Hemingway
+c) Virginia Woolf
+d) J.D. Salinger
+
+Correct Answer: a) F. Scott Fitzgerald
+
+Question: What is the smallest prime number?
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+Correct Answer: b) 2
+
+Question: Which is the largest mammal in the world?
+
+a) Elephant
+b) Blue Whale
+c) Giraffe
+d) Polar Bear
+
+Correct Answer: b) Blue Whale
+
+Question: Who discovered the theory of relativity?
+
+a) Isaac Newton
+b) Albert Einstein
+c) Galileo Galilei
+d) Marie Curie
+
+Correct Answer: b) Albert Einstein

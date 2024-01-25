@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background:linear-gradient(to right,#4f5d8c,#222a58);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 92vh;
+
+}
+#display{
+    color:white;
+    margin-left:80px;
+    margin-top:50px;
+}
+.img {
+    margin-left: 380px;
+    padding-bottom:20px;
+    width: 100px;
+}
+.imp img{
+    width: 100px;
+}
+#question {
+    font-size: 18px;
+    width: 100%;
+}
+
+ol li {
+    padding: 10px;
+}
+
+.flow {
+    color: white;
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 500px;
+}
+
+.next {
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.buttons {
+    padding-top: 10px;
+    display: flex;
+    gap: 60px;
+}
+
+#score-btn {
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#scorebtn2 {
+    margin-left: 620px;
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+.option {
+    outline: auto;
+    margin-top: 15px;
+    color:  rgb(10, 10, 53);
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    border-bottom: solid 0.1px white;
+    width: 450px;
+    cursor: pointer;
+    background: white;
+    border-radius: 30px;
+}
+#score{
+    margin-left: 560px;
+    color: white;
+    font-size: 23px;
+}
+.option:hover.option:hover:not([disabl]) {
+    background:linear-gradient(to right,#4f5d8c,#222a58);
+    color: white;
+}
+#me{
+    width: 100px;
+    height: 20px;
+}
+.gen{
+    display:flex;
+    justify-content:space-between;
+    gap:50px;
+}
+.option:disabled {
+    cursor: no-drop;
+}
+h3{
+    padding-bottom:20px;
+    margin-left: 200px;
+}
+.fle{
+    gap:50px;
+}
+span {
+    display: block;
+    padding: 5px 5px;
+    border-radius: 30px;
+}
+.med{
+    color: white;
+}
+.gen2{
+    margin-top: 60px;
+    width: 50%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    text-transform: uppercase;
+    border-radius: 20px;
+    height: 50px;
+}
+.input{
+    border:1px solid white;
+    text-transform: uppercase;
+    color: white;
+    background:linear-gradient(to right,#313a70,#606e9c);
+    cursor: pointer;
+    border-radius: 20px;
+    height: 50px;
+}
+@media(max-width:430px){
+    body{
+        height: 125vh;
+    }
+    .gen{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    #question{
+        font-size: 15px;
+        width: 80%;
+    }
+    .flow{
+        margin-left:35px;
+        width: 320px;
+    }
+    .option{
+        width: 300px;
+    }
+    h3{
+      margin-left: 0px;
+    }
+    .img{
+        width: 100px;
+        margin-left: 80px;
+    }
+    #me{
+        width: 50px;
+        height: 10px;
+    }
+    .gen2{
+        width: 86%;
+    }
+}
+@media(max-width:385px){
+    body{
+        height: 125vh;
+    }
+    .gen{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    #question{
+        font-size: 15px;
+        width: 80%;
+    }
+    .flow{
+        margin-left:35px;
+        width: 320px;
+    }
+    .option{
+        width: 300px;
+    }
+    h3{
+      margin-left: 0px;
+    }
+    .img{
+        width: 100px;
+        margin-left: 80px;
+    }
+    #me{
+        width: 50px;
+        height: 10px;
+    }
+    .gen2{
+        width: 80%;
+    }
+}
+@media(max-width:325px){
+
+    body{
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 120vh;
+    }
+    .gen{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    .gen2{
+        width: 85%;
+    }
+    input::placeholder{
+        text-align: center;
+    }
+    #question{
+        font-size: 12px;
+        width: 80%;
+    }
+    .flow{
+        margin-left:35px;
+        width: 320px;
+    }
+    .option{
+        width: 250px;
+    }
+    .buttons{
+        gap:0px;
+    }
+    h3{
+      margin-left: 0px;
+    }
+    .img{
+        width: 100px;
+        margin-left: 80px;
+    }
+    #me{
+        width: 50px;
+        height: 10px;
+    }
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizivaninum</title>
+    <link rel="shortcut icon"
+        href="./img/Cartoon_light_bulb_stock_vector__Illustration_of_ecology_-_17648518-removebg-preview.png"
+        type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="display"></div>
+    <div class="flow">
+        <div id="how"></div>
+        <div id="id"></div>
+        <div id="disp"></div>
+        <div id="sag">
+            <img src="./img/Cartoon_light_bulb_stock_vector__Illustration_of_ecology_-_17648518-removebg-preview.png"
+                alt="img" class="img">
+        </div>
+
+        <div id="quiz-container">
+
+            <div class="questions">
+                <h3 id="question"></h3>
+                <ol type="A">
+                    <div class="gen">
+                        <div class="fle">
+                            <li class="option" style="gap:50px;"><span id="option0" onclick="calcScore(this)"></span>
+                            </li>
+                            <div id="me"></div>
+                            <li class="option"><span id="option1" onclick="calcScore(this)"></span></li>
+                        </div>
+                        <div class="twe">
+                            <li class="option"><span id="option2" onclick="calcScore(this)"></span></li>
+                            <div id="me"></div>
+                            <li class="option"><span id="option3" onclick="calcScore(this)"></span></li>
+
+                        </div>
+                    </div>
+
+
+
+
+                </ol>
+
+            </div>
+
+            <div class="buttons">
+                <button type="button" class="next">Next</button>
+
+                <button type="button" id="score-btn" onclick="backToQuiz()">Back to Quiz</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="scoreboard">
+        <div id="score"></div>
+    </div>
+    <button type="button" id="scorebtn2" onclick="backToQuiz()">Play Again</button>
+    </div>
+    <script src="./script.js"></script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+        import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyAH2w6NHUM7zEBq90fY99_9UsuVNBSSxmA",
+            authDomain: "flex-6678b.firebaseapp.com",
+            projectId: "flex-6678b",
+            storageBucket: "flex-6678b.appspot.com",
+            messagingSenderId: "567878690023",
+            appId: "1:567878690023:web:f60b768271b089bd54ee42"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                let name = user.displayName
+                let photo = user.photoURL
+                display.innerHTML = `
+                <h2>Welcome: ${name}</h2>
+               
+                `
+                console.log(user)
+
+            } else {
+                // User is signed out
+                // ...
+            }
+        });
+    </script>
+    <script src="./script3.js"></script>
+</body>
+
+</html>
